@@ -1,5 +1,6 @@
 import requests
 
+# Teste de API
 cep = "31610210"
 
 url_api =f"https://viacep.com.br/ws/{cep}/json/"
