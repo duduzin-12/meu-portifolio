@@ -1,0 +1,18 @@
+body{
+  background-color: #222;
+  color: #eee;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+  text-align: center;
+  color: #4a90e2;
+}
+
+ul, li{
+  list-style-type: none;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 10px;
+  border-bottom: 1px solid #444;
+}
