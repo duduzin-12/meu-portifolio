@@ -1,4 +1,5 @@
 # Exercicio 01 Crie um código que mostre se o aluno foi aprovado ou não
+# Este é um teste de atualização do Git
 
 nota_final = 8
 
